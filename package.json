@@ -4,10 +4,10 @@
   "description": "Vietnamese Comics API for Node using scraping technique",
   "main": "index.ts",
   "repository": {
-    "url": "https://github.com/pth-1641/Comics-API",
+    "url": "https://github.com/ngoctuvu18/Comics-API",
     "type": "git"
   },
-  "homepage": "https://github.com/pth-1641/Comics-API",
+  "homepage": "https://github.com/ngoctuvu18/Comics-API",
   "keywords": [
     "api",
     "comics",
@@ -15,8 +15,8 @@
     "scaping"
   ],
   "author": {
-    "name": "pth-1641",
-    "email": "pth16042001@gmail.com"
+    "name": "ngoctuvu18",
+    "email": "ngoctuvu18@gmail.com"
   },
   "license": "MIT",
   "scripts": {

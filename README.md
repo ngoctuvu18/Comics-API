@@ -4,7 +4,7 @@ Vietnamese Comics API using scrape technique.
 
 ## ❌ Don't use this to crawl image!
 
-### **Base URL**: https://comics-api.vercel.app
+### **Base URL**: https://comics-api-nine.vercel.app/
 
 ## Usage
 

@@ -190,8 +190,8 @@ app.get('/images', async (req: any, res: any) => {
 
 app.get('/', (req, res) => {
   res.json({
-    Github: 'https://github.com/pth-1641/Comics-API',
-    Issues: 'https://github.com/pth-1641/Comics-API/issues'
+    Github: 'https://github.com/ngoctuvu18/Comics-API',
+    Issues: 'https://github.com/ngoctuvu18/Comics-API/issues'
   });
 });
 
